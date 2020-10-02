@@ -18,14 +18,14 @@ speech, and so far, I think it’s going pretty well.”
 
 For more details see [the Tide Pod Media site](https://tidepodmedia.github.io/).
 
-## News
+## **News**
 
 ### Elections
 
 We have recently had our first and second elections, and the results are now in:
-#### Bubble has become the Representative of the People.
-#### Grapes has become the Vice President.
-#### StickyMoosh has become President.
+**Bubble has become the Representative of the People.
+Grapes has become the Vice President.
+StickyMoosh has become President.**
 
 ### Suggestions
 
