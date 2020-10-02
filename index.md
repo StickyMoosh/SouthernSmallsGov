@@ -1,12 +1,10 @@
-## Welcome to The Official, Government-Made Website for the Republic of Southern Smalls.
+## Welcome to The Official website of the Republic of Southern Smalls.
 
 This is for our [Discord Server](https://discord.gg/B9qtuwY), which is the first actual democracy in the Biggie Smalls empire.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our recently elected President and Founder, StickyMoosh, has recently released a statement about his goals for this server.
 
 ```markdown
 “I had this idea for a pure democracy when I ran for 
@@ -15,14 +13,21 @@ that I was one of the founders of, and I got my role
 removed and I was moved into prison. After that, I 
 made my own server where we would actually have free 
 speech, and so far, I think it’s going pretty well.”
+- StickyMoosh
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [the Tide Pod Media site](https://tidepodmedia.github.io/).
 
-### Jekyll Themes
+## News
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StickyMoosh/SouthernSmallsGov/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Elections
 
-### Support or Contact
+We have recently had our first and second elections, and the results are now in:
+#### Bubble has become the Representative of the People.
+#### Grapes has become the Vice President.
+#### StickyMoosh has become President.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Suggestions
+
+Is something in our country not going the way you'd like? Is there an issue you'd like to fix? Well, our nation has institued a **#suggestions** channel, making us the first server to do so!
+Don't worry, giving a suggestion against a leader won't send you to jail, like in past servers. If it is a reasonable request, the government will try to fulfill it as much as they can. 
