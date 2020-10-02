@@ -2,7 +2,7 @@
 
 This is for our [Discord Server](https://discord.gg/B9qtuwY), which is the first actual democracy in the Biggie Smalls empire.
 
-### Markdown
+### Presidential Statement
 
 Our recently elected President and Founder, StickyMoosh, has recently released a statement about his goals for this server.
 
