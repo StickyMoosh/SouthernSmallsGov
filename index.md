@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to The Official, Government-Made Website for the Republic of Southern Smalls.
 
-You can use the [editor on GitHub](https://github.com/StickyMoosh/SouthernSmallsGov/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is for our [Discord Server](https://discord.gg/B9qtuwY), which is the first actual democracy in the Biggie Smalls empire.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -9,21 +9,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+“I had this idea for a pure democracy when I ran for 
+presidency on the Republic of Biggie Smalls, a server 
+that I was one of the founders of, and I got my role 
+removed and I was moved into prison. After that, I 
+made my own server where we would actually have free 
+speech, and so far, I think it’s going pretty well.”
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
